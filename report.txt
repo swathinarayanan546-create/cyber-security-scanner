@@ -1,0 +1,8 @@
+
+Scanning https://google.com
+Status: Active
+Protocol: HTTPS (Secure)
+Vulnerabilities Found:
+- Missing Content-Security-Policy
+- Missing Strict-Transport-Security
+Open Ports: [80, 443]
